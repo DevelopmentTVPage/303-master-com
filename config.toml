@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "New From Master"
+baseURL = "https:\/\/master.com\/subfolder"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758991"
+subfolder = "\/subfolder"
+firstpartycookies = true
+cookiedomain = "master.com"
